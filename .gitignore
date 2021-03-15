@@ -1,0 +1,5 @@
+/venv/
+/sounds/
+/__pycache__/
+
+configs.py
